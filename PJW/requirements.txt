@@ -1,0 +1,8 @@
+pyyaml
+requests
+torchvision
+uvicorn
+fastapi
+streamlit
+pydantic
+pillow
